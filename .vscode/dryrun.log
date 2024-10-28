@@ -1,0 +1,6 @@
+make -j20 --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/brrodrig/SimplicityStudio/v5_workspace_2/Z3Light_Coordinator'
+make: Leaving directory `/Users/brrodrig/SimplicityStudio/v5_workspace_2/Z3Light_Coordinator'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
